@@ -1,5 +1,5 @@
 ## Hi, welcome to my github page 🔥
-### I am a pragmatic and dynamic role player intrested in the latest technologies!   👋
+### I am a pragmatic and dynamic role player interested in the latest technologies!   👋
 
 - ⚡ Fun fact: I am French Jamaican born in Germany (I know it is a lot).
 - 🔭 I’m currently working on a Website using Next.js and MongoDB for a company.
