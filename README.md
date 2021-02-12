@@ -14,4 +14,4 @@
 ![Cool image](./icons8-postgresql-100.png)
 ![Cool image](./icons8-mongodb-100.png)
 ![Cool image](./icons8-azure-100.png)
-![final](./character-16.png)
+<img src="./character-16.png" alt="alt text" width="200" style="position:absolute; right:0"/>
