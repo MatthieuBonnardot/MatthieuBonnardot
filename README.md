@@ -15,3 +15,8 @@
 ![Cool image](./icons8-mongodb-100.png)
 ![Cool image](./icons8-azure-100.png)
 <img src="./character-16.png" alt="alt text" width="200" style="position:absolute; right:0"/>
+
+
+### Statistics🔥🔥
+
+[![Matthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthieuBonnardot)](https://github.com/MatthieuBonnardot/github-readme-stats)
