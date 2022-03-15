@@ -2,8 +2,6 @@
 ### I am a pragmatic and dynamic role player interested in the latest technologies!   👋
 
 - ⚡ Fun fact: I am French Jamaican born in Germany (I know it is a lot).
-- 🔭 I’m currently working on a Website using Next.js and MongoDB for a company.
-- 🌱 I’m currently learning Go (Golang) and Machine learning using Python 🐍
 - 💬 Ask me about the latest technologies and cool projects.
 - 📫 How to reach me: LinkedIn or by email.
 
@@ -20,4 +18,3 @@
 
 [![Matthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthieuBonnardot)](https://github.com/MatthieuBonnardot/github-readme-stats)
 
-<img src="./character-16.png" alt="alt text" width="200" style="position:absolute; right:0"/>
